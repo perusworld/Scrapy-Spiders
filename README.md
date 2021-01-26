@@ -17,3 +17,7 @@ scrapy runspider quotes_spider.py -o quotes.json
 ```bash
 scrapy runspider nfl_schedule_spider.py -o nfl_schedule.csv
 ```
+## NFL News Spider to csv
+```bash
+scrapy runspider nfl_news_spider.py -o nfl_news.csv
+```
