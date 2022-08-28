@@ -21,3 +21,7 @@ scrapy runspider nfl_schedule_spider.py -o nfl_schedule.csv
 ```bash
 scrapy runspider nfl_news_spider.py -o nfl_news.csv
 ```
+## CTA to json
+```bash
+scrapy runspider cta_spider.py -o cta.json
+```
